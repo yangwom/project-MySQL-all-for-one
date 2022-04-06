@@ -1,1 +1,1 @@
-SELECT COUNT(product_name) FROM northwind.productsgit
+SELECT COUNT(product_name) FROM northwind.products
