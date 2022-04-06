@@ -1,2 +1,2 @@
-SELECT supplier_id FROM purchase_orders
-WHERE supplier_id IN (1, 2);
+SELECT supplier_id, status_id FROM purchase_orders
+WHERE supplier_id = 3 AND status_id = 2;
